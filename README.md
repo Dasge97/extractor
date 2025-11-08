@@ -38,8 +38,6 @@ const app = express();
 === Archivo: db/init.sql ===
 CREATE TABLE users (...);
 
-yaml
-Copiar código
 
 ---
 
@@ -68,6 +66,9 @@ pip install -r requirements.txt
 
 # 4. Ejecutar
 python extractor.py
+
+---
+
 🧱 Estructura del proyecto
 css
 Copiar código
