@@ -31,14 +31,14 @@ Ideal para preparar proyectos antes de compartirlos, hacer backups de contenido 
 
 ## 🧠 Ejemplo de salida
 
-\`\`\`
+```
 # === Archivo: src/server.js ===
 const express = require('express');
 const app = express();
 
 # === Archivo: db/init.sql ===
 CREATE TABLE users (...);
-\`\`\`
+```
 
 ---
 
@@ -53,7 +53,7 @@ CREATE TABLE users (...);
 
 ## 🧰 Ejecutar desde el código fuente
 
-\`\`\`bash
+```bash
 # 1. Clonar el repositorio
 git clone https://github.com/TU_USUARIO/extractor.git
 cd extractor/src
@@ -67,13 +67,13 @@ pip install -r requirements.txt
 
 # 4. Ejecutar
 python extractor.py
-\`\`\`
+```
 
 ---
 
 ## 🧱 Estructura del proyecto
 
-\`\`\`
+```
 extractor/
 ├─ src/
 │   ├─ extractor.py
@@ -83,7 +83,7 @@ extractor/
 ├─ README.md
 ├─ LICENSE
 └─ .gitignore
-\`\`\`
+```
 
 ---
 
