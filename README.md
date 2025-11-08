@@ -29,6 +29,11 @@ Ideal para preparar proyectos antes de compartirlos, hacer backups de contenido 
 
 ---
 
+## 🖼️ Vista previa
+
+![SmartInjector preview](assets/preview.png)
+
+---
 ## 🧠 Ejemplo de salida
 
 ```
