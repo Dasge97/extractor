@@ -31,7 +31,7 @@ Ideal para preparar proyectos antes de compartirlos, hacer backups de contenido 
 
 ## 🖼️ Vista previa
 
-![Extractor preview](assets/preview.png)
+![Extractor preview](assets/preview1.png)
 
 ---
 
