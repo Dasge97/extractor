@@ -31,13 +31,14 @@ Ideal para preparar proyectos antes de compartirlos, hacer backups de contenido 
 
 ## 🧠 Ejemplo de salida
 
-=== Archivo: src/server.js ===
+\`\`\`
+# === Archivo: src/server.js ===
 const express = require('express');
 const app = express();
 
-=== Archivo: db/init.sql ===
+# === Archivo: db/init.sql ===
 CREATE TABLE users (...);
-
+\`\`\`
 
 ---
 
@@ -52,6 +53,7 @@ CREATE TABLE users (...);
 
 ## 🧰 Ejecutar desde el código fuente
 
+\`\`\`bash
 # 1. Clonar el repositorio
 git clone https://github.com/TU_USUARIO/extractor.git
 cd extractor/src
@@ -65,10 +67,13 @@ pip install -r requirements.txt
 
 # 4. Ejecutar
 python extractor.py
+\`\`\`
 
-🧱 Estructura del proyecto
-css
-Copiar código
+---
+
+## 🧱 Estructura del proyecto
+
+\`\`\`
 extractor/
 ├─ src/
 │   ├─ extractor.py
@@ -78,53 +83,42 @@ extractor/
 ├─ README.md
 ├─ LICENSE
 └─ .gitignore
-
-🪄 Uso típico
-Ejecuta Extractor.
-
-Elige una carpeta raíz.
-
-Espera unos segundos mientras analiza los archivos.
-
-Obtendrás un archivo extract.txt con el contenido completo y ordenado.
-
-Ideal para entregar prácticas, analizar código con IA o generar documentación técnica sin perder contexto.
-
-🧾 Release oficial v1.0
-🎉 Versión inicial estable
-
-📁 Soporte para lectura recursiva de carpetas
-
-⚙️ Salida organizada por nombre de archivo
-
-🚀 Versión .exe incluida para Windows
-
-🪪 Licencia
-Distribuido bajo licencia MIT — libre para uso personal o profesional.
-
-💬 Autor
-Desarrollado por Daniel 🧑‍💻
-Proyecto abierto del ecosistema dedaniel.com
-
-⭐ Si esta herramienta te resulta útil, deja una estrella en el repositorio :)
+\`\`\`
 
 ---
 
-## 🧠 Descripción corta para el repositorio de GitHub
+## 🪄 Uso típico
 
-> Extrae todo el contenido de un proyecto y genera un `.txt` con cada archivo.  
-> Perfecto para documentar, analizar o compartir código completo.
+1. Ejecuta **Extractor**.  
+2. Elige una carpeta raíz.  
+3. Espera unos segundos mientras analiza los archivos.  
+4. Obtendrás un archivo `extract.txt` con el contenido completo y ordenado.  
 
----
-
-## 💬 Descripción larga ("About" del repo)
-
-> **Extractor** es una herramienta ligera para desarrolladores y estudiantes que necesitan revisar o compartir el contenido completo de un proyecto.  
-> Recorre carpetas y genera un único archivo `.txt` con todos los archivos dentro, identificando sus rutas y nombres.  
->  
-> Ideal para documentar proyectos, hacer backups o preparar código para análisis automático (por ejemplo, con IA o revisores externos).
+> Ideal para entregar prácticas, analizar código con IA o generar documentación técnica sin perder contexto.
 
 ---
 
-¿Quieres que te prepare también la **nota de release oficial v1.0** (texto para pegar en GitHub cuando subas el `.exe`)?  
-Así la subes con el mismo formato profesional que SmartInjector.
+## 🧾 Release oficial v1.0
+
+- 🎉 Versión inicial estable  
+- 📁 Soporte para lectura recursiva de carpetas  
+- ⚙️ Salida organizada por nombre de archivo  
+- 🚀 Versión `.exe` incluida para Windows
+
+---
+
+## 🪪 Licencia
+
+Distribuido bajo licencia **MIT** — libre para uso personal o profesional.  
+Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+---
+
+## 💬 Autor
+
+Desarrollado por **Daniel** 🧑‍💻  
+Proyecto abierto del ecosistema [**dedaniel.com**](https://dedaniel.com)
+
+---
+
+⭐ *Si esta herramienta te resulta útil, deja una estrella en el repositorio :)*
