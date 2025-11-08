@@ -79,8 +79,6 @@ extractor/
 ├─ LICENSE
 └─ .gitignore
 
----
-
 🪄 Uso típico
 Ejecuta Extractor.
 
@@ -109,9 +107,6 @@ Desarrollado por Daniel 🧑‍💻
 Proyecto abierto del ecosistema dedaniel.com
 
 ⭐ Si esta herramienta te resulta útil, deja una estrella en el repositorio :)
-
-yaml
-Copiar código
 
 ---
 
