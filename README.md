@@ -52,7 +52,6 @@ CREATE TABLE users (...);
 
 ## 🧰 Ejecutar desde el código fuente
 
-```bash
 # 1. Clonar el repositorio
 git clone https://github.com/TU_USUARIO/extractor.git
 cd extractor/src
@@ -67,8 +66,6 @@ pip install -r requirements.txt
 # 4. Ejecutar
 python extractor.py
 
----
-
 🧱 Estructura del proyecto
 css
 Copiar código
@@ -81,6 +78,9 @@ extractor/
 ├─ README.md
 ├─ LICENSE
 └─ .gitignore
+
+---
+
 🪄 Uso típico
 Ejecuta Extractor.
 
