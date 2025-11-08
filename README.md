@@ -117,7 +117,6 @@ Consulta el archivo [LICENSE](LICENSE) para más detalles.
 ## 💬 Autor
 
 Desarrollado por **Daniel** 🧑‍💻  
-Proyecto abierto del ecosistema [**dedaniel.com**](https://dedaniel.com)
 
 ---
 
