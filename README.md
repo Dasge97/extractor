@@ -50,7 +50,7 @@ CREATE TABLE users (...);
 
 ## 💾 Descargar versión compilada (.exe)
 
-[![Descargar .EXE](https://img.shields.io/badge/⬇️%20Descargar%20Extractor.exe-0078D7?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Dasge97/extractor/releases/download/v1.0/extractor.zip)
+[![Descargar .EXE](https://img.shields.io/badge/⬇️%20Descargar%20Extractor.exe-0078D7?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Dasge97/extractor/releases/download/v1.0/Extractor.zip)
 
 > No requiere instalación.  
 > Solo ejecútalo, elige la carpeta y genera tu archivo `extract.txt` con un clic.
